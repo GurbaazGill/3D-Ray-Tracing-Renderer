@@ -99,12 +99,6 @@ You can view the generated `.ppm` image using:
 
 ---
 
-## Example Output
-### **Rendered Image (Final Submission Example)**
-![Rendered Output](assets/rendered_output.png)
-
----
-
 ## Future Improvements
 - **Reflections & Refractions**: Extend ray tracing to handle mirror-like reflections and transparent objects.
 - **Multiple Light Sources**: Implement multiple lights for complex illumination.
