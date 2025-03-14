@@ -120,6 +120,6 @@ This project is **open-source** and available under the **MIT License**.
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- GitHub: [GurbaazGill](https://github.com/GurbaazGill)
 - Email: gurbaaz@ualberta.ca
 
